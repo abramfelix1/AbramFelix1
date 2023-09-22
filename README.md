@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 ➯ Software Engineer Forever In Training
 
-📫 Feel Free to Contact Me: abramfelix1@gmail.com 
 
 
 
@@ -57,4 +56,6 @@ Here are some ideas to get you started:
 
 ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+📫 Feel Free to Contact Me: abramfelix1@gmail.com 
 
