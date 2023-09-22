@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 
 ➯ Software Engineer Forever In Training
 
-<img align="right" alt="GIF" src="https://github.com/abramfelix1/AbramFelix1/assets/62622410/6ee1634e-71b5-4277-8ade-56d9126b39bb" width="500" height="320"/>
-
+<img align="right" alt="GIF" src="https://github.com/abramfelix1/AbramFelix1/assets/62622410/6ee1634e-71b5-4277-8ade-56d9126b39bb" width="400" height="320"/>
 <a href="https://github.com/abramfelix1/#gh-dark-mode-only">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=abramfelix1&hide=stars,issues&show_icons=true&theme=default#gh-light-mode-only" />
 </a>
