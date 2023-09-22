@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://github.com/abramfelix1" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@abramfelix1-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/abram-felix" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="mailto:abramfelix1@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 
@@ -56,6 +57,3 @@ Here are some ideas to get you started:
 
 ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-📫 Feel Free to Contact Me: abramfelix1@gmail.com 
-
