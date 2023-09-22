@@ -22,9 +22,11 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/abram-felix" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
 
-➯ Software Engineer Forever In Training
+<div align="center">
+    <p>➯ Software Engineer Forever In Training</p>
+    <img align="right" alt="GIF" src="https://github.com/abramfelix1/AbramFelix1/assets/62622410/6ee1634e-71b5-4277-8ade-56d9126b39bb" width="400" height="320"/>
+</div>
 
-<img align="right" alt="GIF" src="https://github.com/abramfelix1/AbramFelix1/assets/62622410/6ee1634e-71b5-4277-8ade-56d9126b39bb" width="400" height="320"/>
 <a href="https://github.com/abramfelix1/#gh-dark-mode-only">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=abramfelix1&hide=stars,issues&show_icons=true&theme=default#gh-light-mode-only" />
 </a>
