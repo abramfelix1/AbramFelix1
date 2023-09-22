@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/abramfelix1/AbramFelix1/assets/62622410/6ee1634e-71b5-4277-8ade-56d9126b39bb" width="300" height="250"/>
 
-
 ➯ Software Engineer Forever In Training
 
-
+🎉 Fun Facts: Top 0.01% ranked in AimLabs, Top 3% ranked in Halo Infinite 🤓
 
 
 
