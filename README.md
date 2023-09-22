@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ➯ Software Engineer Forever In Training
 
-🎉 Fun Facts: Top 0.01% in AimLabs, Top 3% in Halo Infinite (IYKY)
+➯ Fun Facts: Top 0.01% in AimLabs, Top 3% in Halo Infinite (IYKY)
 
 
 
